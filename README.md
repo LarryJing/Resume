@@ -12,7 +12,9 @@ Bachelor of Science Engineering in Computer Science, Minor in Mathematics	GPA: 3
 Skills
  
 Skills: Git, Docker, Jupyter Notebook, Postman, AWS, Google Flutter, Microsoft PowerApps, Angular, Excel
+
 Languages: C++, Java, Python, JavaScript/TypeScript, C, HTML, CSS, Dart, SQL, VBA
+
 Relevant Courses: Operating Systems, Machine Learning, Database Management Systems, Computer Architecture, Data Structures & Algorithms, Statistics, Probability, Differential Equations, Multivariable Calculus, Linear Algebra
 
 Relevant Experience and Projects in PDF
