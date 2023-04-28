@@ -2,7 +2,7 @@
 
 Lawrence Jing
 
-lajing@umich.edu | 650-278-7409 | github.com/larryjing
+lajing@umich.edu
 
 Education
  
