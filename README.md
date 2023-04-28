@@ -17,4 +17,4 @@ Languages: C++, Java, Python, JavaScript/TypeScript, C, HTML, CSS, Dart, SQL, VB
 
 Relevant Courses: Operating Systems, Machine Learning, Database Management Systems, Computer Architecture, Data Structures & Algorithms, Statistics, Probability, Differential Equations, Multivariable Calculus, Linear Algebra
 
-**Relevant Experience and Projects in PDF**
+**Relevant Experience and Projects in upon request**
